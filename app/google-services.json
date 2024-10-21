@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283568734325",
+    "firebase_url": "https://albacristina09072313067-default-rtdb.firebaseio.com",
+    "project_id": "albacristina09072313067",
+    "storage_bucket": "albacristina09072313067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283568734325:android:e16d253898b175deda383c",
+        "android_client_info": {
+          "package_name": "com.crissnm.labfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283568734325-m62lhd7aktsbsgoc9vqt46jfrknooifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzzgIpptrryRw1bO4Vny4jUV1xMh8cLoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283568734325-c5lhq8q4o4g24grln6jvbouree69qqel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
